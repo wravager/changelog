@@ -31,6 +31,7 @@
         - lifetime is priced lower because leveling up weapons does not reward tokens
 
 <b>-----------------------------------------------------------------------------------------------</b>
+
 <b>client-side</b>
 <i>9/17/2016</i>
 - Added crouch and prone camera restrictions
@@ -58,6 +59,7 @@
       - 10% chance of getting a legendary item
 
 <b>-----------------------------------------------------------------------------------------------</b>
+
 <b>server-side</b>
 <i>9/17/2016</i>
 - Added ban system
