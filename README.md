@@ -29,6 +29,7 @@
       - 24 hours  = 16 tokens
       - lifetime  = 500 ROBUX
         - lifetime is priced lower because leveling up weapons does not reward tokens
+
 <b>-----------------------------------------------------------------------------------------------</b>
 <b>client-side</b>
 <i>9/17/2016</i>
@@ -55,6 +56,7 @@
       - 55% chance of getting a common item
       - 35% chance of getting a rare item
       - 10% chance of getting a legendary item
+
 <b>-----------------------------------------------------------------------------------------------</b>
 <b>server-side</b>
 <i>9/17/2016</i>
