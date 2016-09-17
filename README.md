@@ -1,5 +1,34 @@
 # changelog
 
+<b>general</b>
+<i>9/17/2016</i>
+- Added unlock tokens
+  - buying tokens:
+    - 1 token cost 15 ROBUX
+    - 5 tokens cost 75 ROBUX (+1 free token when pruchased)
+    - 10 tokens cost 150 ROBUX (+2 free tokens when purchased)
+  - daily gifts/lucky draws/challenges/contracts award tokens
+- Added expendable products
+  - Double experience
+    - rewards 2x experience points for a given amount of time
+    - time:
+      - 1 hour    = 1 token
+      - 3 hours   = 2 tokens
+      - 9 hours   = 6 tokens
+      - 12 hours  = 8 tokens
+      - 24 hours  = 16 tokens
+      - lifetime  = 1000 ROBUX
+        - lifetime is priced high because lvling up rewards tokens
+  - Double weapon experience
+    - rewards 2x experience points for a given amount of time
+    - time:
+      - 1 hour    = 1 token
+      - 3 hours   = 2 tokens
+      - 9 hours   = 6 tokens
+      - 12 hours  = 8 tokens
+      - 24 hours  = 16 tokens
+      - lifetime  = 500 ROBUX
+        - lifetime is priced lower because leveling up weapons does not reward tokens
 <b>client-side</b>
 <i>9/17/2016</i>
 - Added crouch and prone camera restrictions
