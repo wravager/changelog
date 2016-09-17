@@ -28,3 +28,36 @@
 
 <b>server-side</b>
 <i>9/17/2016</i>
+- Added ban system
+  - only warning have a cool down, 1+ day bans do not
+  - types of bans
+    - warning tier 1
+      - kicked from the server
+      - reasons:
+        - lag switching
+        - high ping for over 3 seconds (still tbd)
+    - warning tier 2
+      - 15 min ban
+      - reasons:
+        - spamming chat
+        - excessive use of profanity
+        - harrassment towards others
+    - warning tier 3
+      - 30 min ban
+      - reasons:
+        - breaking warning tiers 1 or 2 withing a 3 day cooldown period
+    - 1 day ban
+      - reasons:
+        - sending unverified request to the server
+        - attempting to edit/change parts of the map
+        - attempting to add objects/run code to protected places
+    - 3 day ban
+      - reasons:
+        - doing 1 day ban offenses a second time
+    - 7 day ban
+      - reasons:
+        - doing 1 day ban offenses a third time
+    - perma ban
+      - reasons:
+        - doing 1 day ban offenses a fourth time
+- Added server-wide notification system
